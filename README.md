@@ -18,8 +18,9 @@
 
 ##使用技術
 Laravel8
-##テーブル設計
 
+##テーブル設計
+<img width="1470" alt="スクリーンショット 2024-10-06 22 14 14" src="https://github.com/user-attachments/assets/56fd555f-78b0-4859-bf54-8abf52b2ed8b">
 ##ER図
 
 ##環境構築
