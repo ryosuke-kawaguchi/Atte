@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.app {
+}
+
+.header {
+}
+
+.header__heading {
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    background-color: #EEEEEE;
+}
+
+.copyright {
+    text-align: center;
+}
