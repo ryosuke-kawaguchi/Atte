@@ -22,5 +22,5 @@ Laravel8
 ##テーブル設計
 <img width="1470" alt="スクリーンショット 2024-10-06 22 14 14" src="https://github.com/user-attachments/assets/56fd555f-78b0-4859-bf54-8abf52b2ed8b">
 ##ER図
-
+<img width="1470" alt="スクリーンショット 2024-10-06 22 18 02" src="https://github.com/user-attachments/assets/ba46f86e-c9f8-4f7a-885d-70ffa19acc56">
 ##環境構築
